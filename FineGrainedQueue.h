@@ -18,7 +18,7 @@ public:
 
 	FineGrainedQueue()
 	{
-		head = nullptr; // Initialize head to nullptr
+		head = nullptr;
 	}
 
 	void insertIntoMiddle(int value, int pos);
